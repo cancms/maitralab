@@ -1,0 +1,20 @@
+{{- define "main" -}}
+
+<div
+  class="site-header-container has-cover"
+  style="background-image: url({{ .Params.top_bg | relURL }})"
+>
+  <div class="scrim has-cover">
+    <div class="site-header">
+      <h1 class="title">{{ .Title | markdownify | emojify}}</h1>
+      <p class="subtitle">{{ .Params.subtitle | markdownify | emojify}}</p>
+    </div>
+  </div>
+</div>
+
+<div class="container research-list-page">
+
+  <div class="list-content mt-4 mb-4">{{.Content}}</div>
+</div>
+
+{{- end -}}

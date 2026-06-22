@@ -1,0 +1,133 @@
+publications:
+  - code: "berico_2026_cancer_discovery"
+    title: "A targetable developmental program co-regulates angiogenesis and immune evasion in melanoma"
+    authors_text: "**Berico, Pietro**, Flores Yanke, Amanda, Vand-Rajabpour, Fatemeh, Do, Catherine, Simonin Wilmer, Irving, Delclaux, Ines, Muijlwijk, Tara, Stagnitta, Robert, Vázquez-Cruz, Martha Estefania, Sakellaropoulos, Theodore, Costa, Matheus Ribeiro, Moraes Sousa-Squiavinato, Annie Cristhine, Krogsgaard, Michelle, Moshiri, Ata S, Osman, Iman, Skok, Jane A, A Possik, Patricia, Robles-Espinoza, Carla Daniela, Lund, Amanda W, Schober, Markus, Hernando, Eva"
+    year: 2026
+    journal: 'Cancer discovery. <span class="j-year">2026</span>'
+    url_external: "https://doi.org/10.1158/2159-8290.CD-24-1853"
+
+  - code: "wiggins_2025_clinical_cancer_research"
+    title: "Tumor microRNA signatures associate with stage II/III melanoma patient outcomes"
+    authors_text: "**Wiggins, Jennifer M**, Zhang, Qiao, Zhang, Yian, Vand-Rajabpour, Fatemeh, Hanniford, Douglas, He, Linchen, Lu, Yuting, Kenney, Jessica M, Sadeghi, Keimya D, Argibay, Diana, Orlow, Irene, Busam, Klaus J, Lezcano, Cecilia, Lee, Tim K, Luo, Li, Gorlov, Ivan P, Amos, Christopher, Ernstoff, Marc S, Seshan, Venkatraman E, Cust, Anne E, Wilmott, James, Scolyer, Richard A, Mann, Graham J, Reiner, Allison, Kostrzewa, Caroline E, Nagore, Eduardo, Funchain, Pauline, Ko, Jennifer, Edmiston, Sharon N, Conway, Kathleen, Googe, Paul B, Ollila, David W, Lee, Jeffrey E, Rees, Judy R, Thompson, Cheryl L, Gerstenblith, Meg, Bosenberg, Marcus, Gould Rothberg, Bonnie E, Osman, Iman, Saenger, Yvonne, Reynolds, Adam Z, Boyce, Tawny, Holmen, Sheri, Yan, Shaofeng, Brunsgaard, Elise, Bogner, Paul, Kuan, Pei Fen, Thomas, Nancy E, Begg, Colin B, Shen, Ronglai, Berwick, Marianne, Shao, Yongzhao, Polsky, David, Hernando, Eva"
+    year: 2025
+    journal: 'Clinical cancer research. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1158/1078-0432.CCR-24-3785"
+
+  - code: "eskow_2025_disease_models_mechanisms"
+    title: "Modeling metastasis - leveraging novel tools to streamline discovery in advanced cancer"
+    authors_text: "**Eskow, Nicole M**, Hernando, Eva"
+    year: 2025
+    journal: 'Disease models & mechanisms. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1242/dmm.052449"
+
+  - code: "agrawal_2025_science_advances"
+    title: "Integrated in vivo functional screens and multiomics analyses identify α-2,3-sialylation as essential for melanoma maintenance"
+    authors_text: "**Agrawal, Praveen**, Chen, Shuhui, de Pablos, Ana, Vadlamudi, Yellamandayya, Vand-Rajabpour, Fatemeh, Jame-Chenarboo, Faezeh, Kar, Swarnali, Yanke, Amanda Flores, Berico, Pietro, de Vega, Eleazar Miera Saenz, Darvishian, Farbod, Osman, Iman, Lujambio, Amaia, Mahal, Lara K, Hernando, Eva"
+    year: 2025
+    journal: 'Science advances. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1126/sciadv.adg3481"
+
+  - code: "soler_saez_2025_journal_investigative_dermatology"
+    title: "Unveiling Common Transcriptomic Features between Melanoma Brain Metastases and Neurodegenerative Diseases"
+    authors_text: "**Soler-Sáez, Irene**, Karz, Alcida, Hidalgo, Marta R, Gómez-Cabañes, Borja, López-Cerdán, Adolfo, Català-Senent, José F, Prutisto-Chang, Kylie, Eskow, Nicole M, Izar, Benjamin, Redmer, Torben, Kumar, Swaminathan, Davies, Michael A, de la Iglesia-Vayá, María, Hernando, Eva, García-García, Francisco"
+    year: 2025
+    journal: 'Journal of investigative dermatology. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1016/j.jid.2024.09.005"
+
+  - code: "jame_chenarboo_2025_science_advances"
+    title: "Screening the human miRNA interactome reveals coordinated up-regulation in melanoma, adding bidirectional regulation to miRNA networks"
+    authors_text: "**Jame-Chenarboo, Faezeh**, Reyes, Joseph N, Twells, Nicholas M, Ng, Hoi Hei, Macdonald, Dawn, Hernando, Eva, Mahal, Lara K"
+    year: 2025
+    journal: 'Science advances. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1126/sciadv.adr0277"
+
+  - code: "karz_2025_pigment_cell_melanoma_research"
+    title: "MetFinder: A Tool for Automated Quantitation of Metastatic Burden in Histological Sections From Preclinical Models"
+    authors_text: "**Karz, Alcida**, Coudray, Nicolas, Bayraktar, Erol, Galbraith, Kristyn, Jour, George, Shadaloey, Arman Alberto Sorin, Eskow, Nicole, Rubanov, Andrey, Navarro, Maya, Moubarak, Rana, Baptiste, Gillian, Levinson, Grace, Mezzano, Valeria, Alu, Mark, Loomis, Cynthia, Lima, Daniel, Rubens, Adam, Jilaveanu, Lucia, Tsirigos, Aristotelis, Hernando, Eva"
+    year: 2025
+    journal: 'Pigment cell & melanoma research. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1111/pcmr.13195"
+
+  - code: "conway_2024_jco_precision_oncology"
+    title: "DNA Methylation Classes of Stage II and III Primary Melanomas and Their Clinical and Prognostic Significance"
+    authors_text: "**Conway, Kathleen**, Edmiston, Sharon N, Vondras, Amanda, Reiner, Allison, Corcoran, David L, Shen, Ronglai, Parrish, Eloise A, Hao, Honglin, Lin, Lan, Kenney, Jessica M, Ilelaboye, Gbemisola, Kostrzewa, Caroline E, Kuan, Pei Fen, Busam, Klaus J, Lezcano, Cecilia, Lee, Tim K, Hernando, Eva, Googe, Paul B, Ollila, David W, Moschos, Stergios, Gorlov, Ivan, Amos, Christopher I, Ernstoff, Marc S, Cust, Anne E, Wilmott, James S, Scolyer, Richard A, Mann, Graham J, Vergara, Ismael A, Ko, Jennifer, Rees, Judy R, Yan, Shaofeng, Nagore, Eduardo, Bosenberg, Marcus, Rothberg, Bonnie Gould, Osman, Iman, Lee, Jeffrey E, Saenger, Yvonne, Bogner, Paul, Thompson, Cheryl L, Gerstenblith, Meg, Holmen, Sheri L, Funchain, Pauline, Brunsgaard, Elise, Depcik-Smith, Natalie D, Luo, Li, Boyce, Tawny, Orlow, Irene, Begg, Colin B, Berwick, Marianne, Thomas, Nancy E"
+    year: 2024
+    journal: 'JCO precision oncology. <span class="j-year">2024</span>'
+    url_external: "https://doi.org/10.1200/PO-24-00375"
+
+  - code: "di_leo_2024_pnas"
+    title: "AMBRA1 levels predict resistance to MAPK inhibitors in melanoma"
+    authors_text: "**Di Leo, Luca**, Pagliuca, Chiara, Kishk, Ali, Rizza, Salvatore, Tsiavou, Christina, Pecorari, Chiara, Dahl, Christina, Pacheco, Maria Pires, Tholstrup, Rikke, Brewer, Jonathan Richard, Berico, Pietro, Hernando, Eva, Cecconi, Francesco, Ballotti, Robert, Bertolotto, Corine, Filomeni, Giuseppe, Gjerstorff, Morten Frier, Sauter, Thomas, Lovat, Penny, Guldberg, Per, De Zio, Daniela"
+    year: 2024
+    journal: 'Proceedings of the National Academy of Sciences of the United States of America (PNAS). <span class="j-year">2024</span>'
+    url_external: "https://doi.org/10.1073/pnas.2400566121"
+
+  - code: "agrawal_2024_biorxiv"
+    title: "Integrated in vivo functional screens and multi-omics analyses identify α-2,3-sialylation as essential for melanoma maintenance"
+    authors_text: "**Agrawal, Praveen**, Chen, Shuhui, de Pablos, Ana, Jame-Chenarboo, Faezeh, Miera Saenz de Vega, Eleazar, Darvishian, Farbod, Osman, Iman, Lujambio, Amaia, Mahal, Lara K, Hernando, Eva"
+    year: 2024
+    journal: 'bioRxiv.org : the preprint server for biology. <span class="j-year">2024</span>'
+    url_external: "https://doi.org/10.1101/2024.03.08.584072"
+
+  - code: "berico_2023_cell_reports"
+    title: "Super-enhancer-driven expression of BAHCC1 promotes melanoma cell proliferation and genome stability"
+    authors_text: "**Berico, Pietro**, Nogaret, Maguelone, Cigrang, Max, Lallement, Antonin, Vand-Rajabpour, Fatemeh, Flores-Yanke, Amanda, Gambi, Giovanni, Davidson, Guillaume, Seno, Leane, Obid, Julian, Vokshi, Bujamin H, Le Gras, Stephanie, Mengus, Gabrielle, Ye, Tao, Cordero, Carlos Fernandez, Dalmasso, Mélanie, Compe, Emmanuel, Bertolotto, Corine, Hernando, Eva, Davidson, Irwin, Coin, Frédéric"
+    year: 2023
+    journal: 'Cell reports. <span class="j-year">2023</span>'
+    url_external: "https://doi.org/10.1016/j.celrep.2023.113363"
+
+  - code: "gorlov_2023_melanoma_research"
+    title: "Methylation of nonessential genes in cutaneous melanoma - Rule Out hypothesis"
+    authors_text: "**Gorlov, Ivan P**, Conway, Kathleen, Edmiston, Sharon N, Parrish, Eloise A, Hao, Honglin, Amos, Christopher I, Tsavachidis, Spiridon, Gorlova, Olga Y, Begg, Colin, Hernando, Eva, Cheng, Chao, Shen, Ronglai, Orlow, Irene, Luo, Li, Ernstoff, Marc S, Kuan, Pei Fen, Ollila, David W, Tsai, Yihsuan S, Berwick, Marianne, Thomas, Nancy E"
+    year: 2023
+    journal: 'Melanoma research. <span class="j-year">2023</span>'
+    url_external: "https://doi.org/10.1097/CMR.0000000000000881"
+
+  - code: "davalos_2023_nature_communications"
+    title: "An epigenetic switch controls an alternative NR2F2 isoform that unleashes a metastatic program in melanoma"
+    authors_text: "**Davalos, Veronica**, Lovell, Claudia D, Von Itter, Richard, Dolgalev, Igor, Agrawal, Praveen, Baptiste, Gillian, Kahler, David J, Sokolova, Elena, Moran, Sebastian, Piqué, Laia, Vega-Saenz de Miera, Eleazar, Fontanals-Cirera, Barbara, Karz, Alcida, Tsirigos, Aristotelis, Yun, Chi, Darvishian, Farbod, Etchevers, Heather C, Osman, Iman, Esteller, Manel, Schober, Markus, Hernando, Eva"
+    year: 2023
+    journal: 'Nature communications. <span class="j-year">2023</span>'
+    url_external: "https://doi.org/10.1038/s41467-023-36967-2"
+
+  - code: "danielson_2023_plos_one"
+    title: "MiR-130b modulates the invasive, migratory, and metastatic behavior of leiomyosarcoma"
+    authors_text: "**Danielson, Laura S**, Guijarro, Maria V, Menendez, Silvia, Higgins, Brett, Sun, Qiang, Mittal, Khushbakhat, Popiolek, Dorota A, Overholtzer, Michael, Palmer, Glyn D, Hernando, Eva"
+    year: 2023
+    journal: 'PLoS one. <span class="j-year">2023</span>'
+    url_external: "https://doi.org/10.1371/journal.pone.0278844"
+
+  - code: "orlow_2023_plos_one"
+    title: "InterMEL: An international biorepository and clinical database to uncover predictors of survival in early-stage melanoma"
+    authors_text: "**Orlow, Irene**, Sadeghi, Keimya D, Edmiston, Sharon N, Kenney, Jessica M, Lezcano, Cecilia, Wilmott, James S, Cust, Anne E, Scolyer, Richard A, Mann, Graham J, Lee, Tim K, Burke, Hazel, Jakrot, Valerie, Shang, Ping, Ferguson, Peter M, Boyce, Tawny W, Ko, Jennifer S, Ngo, Peter, Funchain, Pauline, Rees, Judy R, O'Connell, Kelli, Hao, Honglin, Parrish, Eloise, Conway, Kathleen, Googe, Paul B, Ollila, David W, Moschos, Stergios J, Hernando, Eva, Hanniford, Douglas, Argibay, Diana, Amos, Christopher I, Lee, Jeffrey E, Osman, Iman, Luo, Li, Kuan, Pei-Fen, Aurora, Arshi, Gould Rothberg, Bonnie E, Bosenberg, Marcus W, Gerstenblith, Meg R, Thompson, Cheryl, Bogner, Paul N, Gorlov, Ivan P, Holmen, Sheri L, Brunsgaard, Elise K, Saenger, Yvonne M, Shen, Ronglai, Seshan, Venkatraman, Nagore, Eduardo, Ernstoff, Marc S, Busam, Klaus J, Begg, Colin B, Thomas, Nancy E, Berwick, Marianne"
+    year: 2023
+    journal: 'PLoS one. <span class="j-year">2023</span>'
+    url_external: "https://doi.org/10.1371/journal.pone.0269324"
+
+  - code: "rubanov_2022_cancers"
+    title: "Epigenetic Mechanisms Underlying Melanoma Resistance to Immune and Targeted Therapies"
+    authors_text: "**Rubanov, Andrey**, Berico, Pietro, Hernando, Eva"
+    year: 2022
+    journal: 'Cancers. <span class="j-year">2022</span>'
+    url_external: "https://doi.org/10.3390/cancers14235858"
+
+  - code: "karz_2022_pigment_cell_melanoma_research"
+    title: "Melanoma central nervous system metastases: An update to approaches, challenges, and opportunities"
+    authors_text: "**Karz, Alcida**, Dimitrova, Maya, Kleffman, Kevin, Alvarez-Breckenridge, Christopher, Atkins, Michael B, Boire, Adrienne, Bosenberg, Marcus, Brastianos, Priscilla, Cahill, Daniel P, Chen, Qing, Ferguson, Sherise, Forsyth, Peter, Glitza Oliva, Isabella C, Goldberg, Sarah B, Holmen, Sheri L, Knisely, Jonathan P S, Merlino, Glenn, Nguyen, Don X, Pacold, Michael E, Perez-Guijarro, Eva, Smalley, Keiran S M, Tawbi, Hussein A, Wen, Patrick Y, Davies, Michael A, Kluger, Harriet M, Mehnert, Janice M, Hernando, Eva"
+    year: 2022
+    journal: 'Pigment cell & melanoma research. <span class="j-year">2022</span>'
+    url_external: "https://doi.org/10.1111/pcmr.13059"
+
+  - code: "biermann_2022_cell"
+    title: "Dissecting the treatment-naive ecosystem of human melanoma brain metastasis"
+    authors_text: "**Biermann, Jana**, Melms, Johannes C, Amin, Amit Dipak, Wang, Yiping, Caprio, Lindsay A, Karz, Alcida, Tagore, Somnath, Barrera, Irving, Ibarra-Arellano, Miguel A, Andreatta, Massimo, Fullerton, Benjamin T, Gretarsson, Kristjan H, Sahu, Varun, Mangipudy, Vaibhav S, Nguyen, Trang T T, Nair, Ajay, Rogava, Meri, Ho, Patricia, Koch, Peter D, Banu, Matei, Humala, Nelson, Mahajan, Aayushi, Walsh, Zachary H, Shah, Shivem B, Vaccaro, Daniel H, Caldwell, Blake, Mu, Michael, Wünnemann, Florian, Chazotte, Margot, Berhe, Simon, Luoma, Adrienne M, Driver, Joseph, Ingham, Matthew, Khan, Shaheer A, Rapisuwon, Suthee, Slingluff, Craig L, Eigentler, Thomas, Röcken, Martin, Carvajal, Richard, Atkins, Michael B, Davies, Michael A, Agustinus, Albert, Bakhoum, Samuel F, Azizi, Elham, Siegelin, Markus, Lu, Chao, Carmona, Santiago J, Hibshoosh, Hanina, Ribas, Antoni, Canoll, Peter, Bruce, Jeffrey N, Bi, Wenya Linda, Agrawal, Praveen, Schapiro, Denis, Hernando, Eva, Macosko, Evan Z, Chen, Fei, Schwartz, Gary K, Izar, Benjamin"
+    year: 2022
+    journal: 'Cell. <span class="j-year">2022</span>'
+    url_external: "https://doi.org/10.1016/j.cell.2022.06.007"
+
+  - code: "kleffman_2022_cancer_discovery"
+    title: "Melanoma-secreted Amyloid Beta Suppresses Neuroinflammation and Promotes Brain Metastasis"
+    authors_text: "**Kleffman, Kevin**, Levinson, Grace, Rose, Indigo V L, Blumenberg, Lili M, Shadaloey, Sorin A A, Dhabaria, Avantika, Wong, Eitan, Galan-Echevarria, Francisco, Karz, Alcida, Argibay, Diana, Von Itter, Richard, Floristan, Alfredo, Baptiste, Gillian, Eskow, Nicole M, Tranos, James A, Chen, Jenny, Vega Y Saenz de Miera, Eleazar C, Call, Melissa, Rogers, Robert, Jour, George, Wadghiri, Youssef Zaim, Osman, Iman, Li, Yue-Ming, Mathews, Paul, DeMattos, Ronald, Ueberheide, Beatrix, Ruggles, Kelly V, Liddelow, Shane A, Schneider, Robert J, Hernando, Eva"
+    year: 2022
+    journal: 'Cancer discovery. <span class="j-year">2022</span>'
+    url_external: "https://doi.org/10.1158/2159-8290.CD-21-1006"

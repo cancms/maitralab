@@ -1,0 +1,89 @@
+.site-header-container {
+  color: #fff;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
+  background-position: 50% 50%;
+  background-size: cover;
+  .scrim {
+    padding: 16em 1em !important;
+
+    .site-header {
+      text-align: center;
+    }
+    .title {
+      font-size: 3rem;
+      color: #fff;
+    }
+  }
+}
+
+/* 结构化两栏布局容器 */
+.shortcode-split-wrap {
+  .split-container {
+    .split-image {
+      width: 100%;
+      // height: 16rem;
+      overflow: hidden;
+      img {
+        margin: 0.5rem auto 0 auto;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    .split-text {
+      text-align: justify;
+    }
+  }
+
+  /* 右图左文模式：通过 order 调换位置 */
+  .split-reverse .split-image {
+    order: 2; /* 图片排第二（右边） */
+  }
+
+  .split-reverse .split-text {
+    order: 1; /* 文字排第一（左边） */
+  }
+}
+
+
+.publications-list-page{
+  .filter-form {
+      padding: 1rem;
+  }
+  .pub-list-item{
+    .pub-title{
+      font-size: 1.25rem;
+      font-weight: 500;
+    }
+    .article-metadata{
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .pub-journal{
+      font-size: 0.9rem;
+      font-style: italic;
+      color: #777;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+// 手机
+@media (max-width: 478px) {
+  .shortcode-split-wrap {
+    .split-reverse .split-image,
+    .split-reverse .split-text {
+      order: 0; /* 恢复默认文档流顺序 */
+    }
+  }
+}
