@@ -1,4 +1,5 @@
 .site-header-container {
+  display: none;
   color: #fff;
   text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
   background-position: 50% 50%;
@@ -86,4 +87,18 @@
       order: 0; /* 恢复默认文档流顺序 */
     }
   }
+
+  #section-slider {
+
+    .carousel-inner {
+      .hero-lead  {
+        font-size: 0.9rem !important;
+      }
+      .wg-hero {
+        margin: 3rem 1rem !important;
+      }
+    }
+
+  }
+
 }

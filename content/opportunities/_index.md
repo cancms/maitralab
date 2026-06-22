@@ -8,7 +8,7 @@ top_bg: images/opportunities/o1.png
 ---
 
 
-##  Opportunities
+## <div style="text-align: center;">Opportunities</div> 
 ## &nbsp;
 
 We look for highly motivated, team-oriented and hard-working candidates who seek to enjoy the excitement of the scientific journey and welcome the challenge of a high pace, energitic environment.
