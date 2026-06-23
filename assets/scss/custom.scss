@@ -70,7 +70,19 @@
 
 
 
+#section-slider {
 
+    .carousel-inner {
+      .hero-lead  {
+        max-width: 100% !important;
+      }
+      .wg-hero {
+        margin: auto 6rem !important;
+        max-width: 100%;
+      }
+    }
+
+  }
 
 
 
